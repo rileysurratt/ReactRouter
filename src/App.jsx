@@ -8,6 +8,9 @@ function App() {
     <>
       <div id="container">
         <NavBar />
+        <div id="header">
+          <h1>React Router</h1>
+        </div>
         <div id="main-section">
           <Pages />
         </div>
