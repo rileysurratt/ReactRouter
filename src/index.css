@@ -35,3 +35,20 @@ body > div {
   background-color: #275db3;
   color: white;
 }
+.green {
+  background-color: #a3b899;
+  color: white;
+}
+.yellow {
+  background-color: #ffe39f;
+  color: white;
+}
+
+.home {
+  background-color: #B795BE;
+  color: white;
+}
+
+.footer{
+  color: black;
+}
